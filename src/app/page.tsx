@@ -105,7 +105,7 @@ export default function Home() {
 
       <section className="hero">
         <div className="hero-copy reveal">
-          <p className="eyebrow">NIT Silchar · Full Stack · Automation · ML</p>
+          <p className="eyebrow">NIT Silchar · Full Stack · Automation · Cloud</p>
           <h1>Sahin Alam</h1>
           <p className="headline">
             I build practical products that automate repetitive work, simplify hiring workflows,
@@ -155,7 +155,7 @@ export default function Home() {
             </div>
             <div className="fact-row">
               <span>Location</span>
-              <strong>Assam, India</strong>
+              <strong>Bengaluru, India</strong>
             </div>
             <div className="fact-row">
               <span>Focus</span>
